@@ -1,0 +1,9 @@
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\bin\Debug\DBBroker.dll
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\bin\Debug\DBBroker.pdb
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\bin\Debug\Domen.dll
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\bin\Debug\Domen.pdb
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\obj\Debug\DBBroker.csprojAssemblyReference.cache
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\obj\Debug\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\obj\Debug\DBBroker.csproj.CopyComplete
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\obj\Debug\DBBroker.dll
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\DBBroker\obj\Debug\DBBroker.pdb

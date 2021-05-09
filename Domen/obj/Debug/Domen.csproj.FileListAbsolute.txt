@@ -1,0 +1,6 @@
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Domen\bin\Debug\Domen.dll
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Domen\bin\Debug\Domen.pdb
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Domen\obj\Debug\Domen.dll
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Domen\obj\Debug\Domen.pdb
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Domen\obj\Debug\Domen.csprojAssemblyReference.cache

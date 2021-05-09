@@ -1,0 +1,6 @@
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Common\bin\Debug\Common.dll
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Common\bin\Debug\Common.pdb
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Common\obj\Debug\Common.dll
+C:\Users\Ivana\source\repos\SeminarskiRadIvanaStankovic0061_2017\Common\obj\Debug\Common.pdb
